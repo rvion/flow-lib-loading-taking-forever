@@ -1,0 +1,9 @@
+{
+  "name": "flow-lib-loading-takes-forever",
+  "version": "1.0.0",
+  "author": "Rémi Vion",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.66.0"
+  }
+}
